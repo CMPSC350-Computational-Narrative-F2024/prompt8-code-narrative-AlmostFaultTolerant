@@ -1,6 +1,14 @@
 ## 1. Prompts Used
 
-TODO: try at least three variations and use the same final prompts for both Copilot and another LLM
+
+
+Write some python code in this file that shows finding new insights when printing results from analysis
+
+Write some python code in this file that shows finding new insights when printing results from analyzing two different lists of numbers
+
+Write some python code in this file that shows finding new insights when printing results from analyzing two different lists of words
+
+
 
 ## 2. Prompting Strategy
 
