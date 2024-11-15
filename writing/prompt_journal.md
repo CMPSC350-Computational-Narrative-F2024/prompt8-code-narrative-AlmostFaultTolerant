@@ -12,7 +12,7 @@ Write some python code in this file that shows finding new insights when printin
 
 ## 2. Prompting Strategy
 
-TODO: What was your strategy with prompting. What worked and what didn't work? Did you employ a specific prompting technique (zero-, few-, many-shot, chaining, chain of thought, meta prompting)?
+I decided to start of vague with both Copilot and GPT, and found that they both analyzed lists of numbers, even when I didn't provide that specification. I wanted more variety without making it few-shot, so I got more specific on what they should use, first clarifying that they need numbers and second making it be words instead.
 
 ## 3. Output Evaluation
 TODO:
